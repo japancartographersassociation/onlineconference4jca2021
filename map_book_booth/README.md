@@ -51,7 +51,7 @@ https://www.gsi.go.jp/bousaichiri/afm_kouhyou_202011_00001.html
 展示担当：近藤
 
 ### 展示物
-* [2020年カレンダーTHE WORLD MAP 〜国旗でみる世界〜 Al版ヨコ/投影法:メルカトル図法](https://github.com/japancartographersassociation/onlineconference4jca2021/blob/main/map_book_booth/tcg/tcg2020cal_rgb_200.jpg)
+* [2020年カレンダーTHE WORLD MAP 〜国旗でみる世界〜 Al版ヨコ/投影法:メルカトル図法（タイルマップ）](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/tcg/tilemap_tcg2020cal/leaflet.html)
 
 この世界地図は各々の国の位置に国旗を置いています。国旗を地図の周囲に並べたものと比べ、このように実際の位罹にその国の歴史や文化・思想などが反映された国旗を置き、直感的に国と国旗を結び付けて認知することで国旗に地域性があることがよくわかります。 また近づいてみると、東京からの「東西南北を示す8方位線」と「 1000km毎の 等距離圏」が表示されており、"丸い地球を平面にしたことによる歪み" と日本との相対的な位置関係をご理解いただけます。
 
