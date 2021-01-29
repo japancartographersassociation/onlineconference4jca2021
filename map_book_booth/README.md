@@ -20,7 +20,7 @@ https://www1.gsi.go.jp/geowww/saigai/202007/shinsui/02_shinsui_kuma_05.pdf
 国土地理院では、活動的な火山とその周辺地域を対象に地形調査を行い、火山災害防止のための基礎情報となる火山土地条件図を整備・提供しています。令和2年7月に提供を開始した火山土地条件図「鳥海山」は、北は秋田県由利本荘市から南は山形県酒田市に至る約1,000km2に及ぶ範囲を調査しました。
 https://www.gsi.go.jp/bousaichiri/volcano-maps-information-chokai.html
 
-* 1:25,000 活断層図「松本 改訂版」
+* [1:25,000 活断層図「松本 改訂版」](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/gsi/tilemap_matsumoto/leaflet.html)
 
 1：25,000活断層図は、平成7年の阪神・淡路大震災を契機に整備を開始し、これまでに209面を整備・公表しています。近年は、新たな知見などによる改訂も実施しており、本図は平成11年に公表した「松本」の改訂版として、令和2年11月に公表しました。活断層図は、空中写真判読や詳細な標高データの解析により、活断層の詳細な位置や活断層を評価する上で重要な指標となる地形分類を表示しています。
 https://www.gsi.go.jp/bousaichiri/afm_kouhyou_202011_00001.html
