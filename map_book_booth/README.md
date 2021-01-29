@@ -1,4 +1,4 @@
-# 地図・図書展示 各資料置き場
+# 日本地図学会オンライン大会　地図・図書展示 各資料置き場
 
 当日の展示会場は「地図と地名専門部会(日本地図学会)」Facebook 公開グループになります。
 https://www.facebook.com/groups/chizutochimei/
