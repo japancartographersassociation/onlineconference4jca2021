@@ -29,6 +29,15 @@ XXXXXXX
 https://xxxxx
 
 
+# Twitter告知テンプレート
+【2020年度 日本地図学会オンライン大会 地図・図書展示】on Facebook
+
+※ 閲覧にはFacebookアカウントが必要になります。
+
+【作品名（団体名）】
+
+XXXXXXXX（団体名）
+
 ## 国土地理院
 展示担当：野尻
 
