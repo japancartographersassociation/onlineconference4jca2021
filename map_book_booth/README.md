@@ -134,7 +134,7 @@ HP　https://www.tcgmap.jp/shopping/
 
 日本の陸地面積は世界で61位とされている。しかし、その「領海」と「排他的経済水域」（EEZ）とを含めた面積では世界6位となり世界有数の海洋国家となる。また、深度の深い水域を広く有しているため、体積では世界4位となる。本図は、日本のEEZに含まれる資源を図示し「小さな島国」という理解とは一線を画す日本象を提示している。
 
-* [「中国茶主要生産地MAP」（2012年）（タイルマップ）](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/geocatalog/2013/tilemap_2013/leaflet.html)
+* [「中国茶主要生産地MAP」（2012年）（タイルマップ）](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/geocatalog/2012/tilemap_2012/leaflet.html)
 
 中国はお茶発祥の地ともいわれており、その種類は数百種類にのぼるとされる。本図は、中国の広大な国土のさまざまな場所で採れるお茶を、紅茶、白茶、黄茶、青茶、紅茶、黒茶に分類し、地図上にプロットしたものである。茶樹の育成には温暖湿潤な気候が不可欠であるため、中国の南部が主要産地となっている。
 
