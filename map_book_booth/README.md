@@ -52,7 +52,7 @@ XXXXXXXX（団体名）
 この地図は、国土地理院が7月4日15時までに収集したSNS画像、国土交通省災害用ヘリコプター等が7月4日15時頃に撮影した画像及び標高データを用いて、浸水範囲における水深を算出して深さを濃淡で表現した地図です。時点情報のため、最大浸水範囲を示したものではありません。実際に浸水のあった範囲でも把握できていない部分、浸水していない範囲でも浸水範囲として表示されている部分があります。
 https://www1.gsi.go.jp/geowww/saigai/202007/shinsui/02_shinsui_kuma_05.pdf
 
-* [火山土地条件図「鳥海山」](https://github.com/japancartographersassociation/onlineconference4jca2021/blob/main/map_book_booth/gsi/%E7%81%AB%E5%B1%B1%E5%9C%9F%E5%9C%B0%E6%9D%A1%E4%BB%B6%E5%9B%B3%E3%80%8C%E9%B3%A5%E6%B5%B7%E5%B1%B1%E3%80%8D.jpg)
+* [火山土地条件図「鳥海山」](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/gsi/tilemap_mtchokai/leaflet.html)
 
 
 国土地理院では、活動的な火山とその周辺地域を対象に地形調査を行い、火山災害防止のための基礎情報となる火山土地条件図を整備・提供しています。令和2年7月に提供を開始した火山土地条件図「鳥海山」は、北は秋田県由利本荘市から南は山形県酒田市に至る約1,000km2に及ぶ範囲を調査しました。
