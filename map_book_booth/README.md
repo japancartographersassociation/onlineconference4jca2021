@@ -28,6 +28,8 @@ XXXXXXX
 
 https://xxxxx
 
+#日本地図学会 #地図図書展
+
 
 # Twitter告知テンプレート
 【2020年度 日本地図学会オンライン大会 地図・図書展示】on Facebook
