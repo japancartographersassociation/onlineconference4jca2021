@@ -45,7 +45,7 @@ XXXXXXXX（団体名）
 展示担当：野尻
 
 ### 展示物
-* [令和2年7月豪雨による浸水推定図「球磨川水系球磨川 5」]](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/gsi/tilemap_kumariver/leaflet.html)
+* [令和2年7月豪雨による浸水推定図「球磨川水系球磨川 5」](https://japancartographersassociation.github.io/onlineconference4jca2021/map_book_booth/gsi/tilemap_kumariver/leaflet.html)
 
 この地図は、国土地理院が7月4日15時までに収集したSNS画像、国土交通省災害用ヘリコプター等が7月4日15時頃に撮影した画像及び標高データを用いて、浸水範囲における水深を算出して深さを濃淡で表現した地図です。時点情報のため、最大浸水範囲を示したものではありません。実際に浸水のあった範囲でも把握できていない部分、浸水していない範囲でも浸水範囲として表示されている部分があります。
 https://www1.gsi.go.jp/geowww/saigai/202007/shinsui/02_shinsui_kuma_05.pdf
