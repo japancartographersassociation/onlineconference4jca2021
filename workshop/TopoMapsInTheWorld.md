@@ -5,6 +5,7 @@
 * 注意： サイトによってはURLが変更もしくは、サービス終了している場合もあります。
 
 ## 国名/州など
+元データは [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1cfX2mLk9Hlk4HgUZ7V47KgAB-xf-1gUXUxbpSwYDJ0k/edit?usp=sharing) で管理。 (どなたでも編集できます)
 
 * 	スイス	https://map.geo.admin.ch/
 * 	スイス	https://s.geo.admin.ch/8185688755
