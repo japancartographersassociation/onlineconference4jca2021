@@ -5,157 +5,60 @@
 * 注意： サイトによってはURLが変更もしくは、サービス終了している場合もあります。
 
 ## 国名/州など
-* スイス
-* スイス
-* アイスランド
-* イギリス
-* スウェーデン
-* スウェーデン
-* フィンランド
-* ノルウェー
-* デンマーク
-* オランダ
-* オランダ
-* ベルギー
-* ルクセンブルク
-* オーストリア
-* リヒテンシュタイン
-* ドイツ バイエルン州
-* ドイツ ノルトラインウエストファーレン州 ドイツ ラインラントプファルツ州
-* ドイツ ニーダーザクセン州 ドイツ ブランデンブルク州 ドイツ ザクセン州
-* ドイツ シュレースヴィヒ・ホルシュタイン州
-* ドイツ メクレンブルクフォアポンメルン州 フランス
-* イタリア
-* スペイン
-* アンドラ
-* エストニア
-* ラトビア
-* チェコ
-* スロバキア
-* ポーランド
-* スロベニア
-* クロアチア
-* セルビア ボスニア・ヘルツェゴヴィナ マケドニア
-* コソボ
-* アルバニア トルコ ニュージーランド
-* オーストラリア
-* カナダ
-* カナダ
-* エクアドル
-* ブラジル
-* 台湾
-* 香港
-* フィリピン
-* フィリピン
-* フィリピン
-* インドネシア 
-* イスラエル
 
-https://map.geo.admin.ch/
-
-https://s.geo.admin.ch/8185688755 
-
-http://kortasja.lmi.is/ 
-
-https://osmaps.ordnancesurvey.co.uk/ 
-
-https://kso.etjanster.lantmateriet.se/ 
-
-https://minkarta.lantmateriet.se/ 
-
-https://asiointi.maanmittauslaitos.fi/karttapaikka/ 
-
-https://www.norgeskart.no/
-
-https://sdfekort.dk/
-
-https://www.pdok.nl/viewer/
-
-http://www.topotijdreis.nl/ 
-
-http://www.ngi.be/topomapviewer/ 
-
-http://map.geoportail.lu/
-
-http://www.amap.at/ 
-
-http://geodaten.llv.li/geoportal/public.html 
-
-https://geoportal.bayern.de/bayernatlas/ 
-
-https://www.geoportal.nrw/geoviewer 
-
-https://maps.rlp.de/
-
-http://navigator.geolife.de/ 
-
-https://bb-viewer.geobasis-bb.de/ 
-
-https://geoportal.sachsen.de/cps/karte.html 
-
-http://www.umweltdaten.landsh.de/atlas/script/index.php
-
-https://www.geoportal-mv.de/gaia/gaia.php 
-
-https://www.geoportail.gouv.fr/carte 
-
-https://www.igmi.org/en/geoprodotti#b_start=0 
-
-http://www.ign.es/iberpix2/visor/ 
-
-https://www.ideandorra.ad/geoportal/ 
-
-https://geoportaal.maaamet.ee/eng/ 
-
-https://kartes.lgia.gov.lv/karte/ 
-
-https://geoportal.gov.cz/web/guest/map 
-
-https://zbgis.skgeodesy.sk 
-
-http://mapy.geoportal.gov.pl/imap/ 
-
-http://www.geopedia.si 
-
-http://geoportal.nipp.hr/en/application/view 
-
-https://a3.geosrbija.rs/ 
-
-https://www.katastar.ba/geoportal/preglednik/ 
-
-https://ossp.katastar.gov.mk/OSSP/
-
-http://geoportal.rks-gov.net/en/search?municipalityId=6
-
-https://geoportal.asig.gov.al/map/?auto=true 
-
-https://atlas.harita.gov.tr/
-
-http://www.topomap.co.nz/ 
-
-http://maps.ga.gov.au/interactive-maps/#/theme/national-location-information/map/australiantopography 
-
-http://atlas.gc.ca/toporama/en/index.html 
-
-http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html 
-
-http://www.geoportaligm.gob.ec/portal/
-
-https://portaldemapas.ibge.gov.br/portal.php#homepage
-
-https://maps.nlsc.gov.tw/ 
-
-http://www1.map.gov.hk/gih3/view/index.jsp 
-
-http://www.namria.gov.ph/download.php 
-
-http://www.namria.gov.ph/download.php#maps 
-
-http://www.geoportal.gov.ph/ 
-
-http://tanahair.indonesia.go.id/portal-web/inageoportal/#/ 
-
-https://www.govmap.gov.il/
+* 	スイス	https://map.geo.admin.ch/
+* 	スイス	https://s.geo.admin.ch/8185688755
+* 	アイスランド	http://kortasja.lmi.is/
+* 	イギリス	https://osmaps.ordnancesurvey.co.uk/
+* 	スウェーデン	https://kso.etjanster.lantmateriet.se/
+* 	スウェーデン	https://minkarta.lantmateriet.se/
+* 	フィンランド	https://asiointi.maanmittauslaitos.fi/karttapaikka/
+* 	ノルウェー	https://www.norgeskart.no/
+* 	デンマーク	https://sdfekort.dk/
+* 	オランダ	https://www.pdok.nl/viewer/
+* 	オランダ	http://www.topotijdreis.nl/
+* 	ベルギー	http://www.ngi.be/topomapviewer/
+* 	ルクセンブルク	http://map.geoportail.lu/
+* 	オーストリア	http://www.amap.at/
+* 	リヒテンシュタイン	http://geodaten.llv.li/geoportal/public.html
+* 	ドイツ バイエルン州	https://geoportal.bayern.de/bayernatlas/
+* 	ドイツ ノルトラインウエストファーレン州 ドイツ ラインラントプファルツ州	https://www.geoportal.nrw/geoviewer
+* 	ドイツ ニーダーザクセン州 ドイツ ブランデンブルク州 ドイツ ザクセン州	https://maps.rlp.de/
+* 	ドイツ シュレースヴィヒ・ホルシュタイン州	http://navigator.geolife.de/
+* 	ドイツ メクレンブルクフォアポンメルン州 フランス	https://bb-viewer.geobasis-bb.de/
+* 	イタリア	https://geoportal.sachsen.de/cps/karte.html
+* 	スペイン	http://www.umweltdaten.landsh.de/atlas/script/index.php
+* 	アンドラ	https://www.geoportal-mv.de/gaia/gaia.php
+* 	エストニア	https://www.geoportail.gouv.fr/carte
+* 	ラトビア	https://www.igmi.org/en/geoprodotti#b_start=0
+* 	チェコ	http://www.ign.es/iberpix2/visor/
+* 	スロバキア	https://www.ideandorra.ad/geoportal/
+* 	ポーランド	https://geoportaal.maaamet.ee/eng/
+* 	スロベニア	https://kartes.lgia.gov.lv/karte/
+* 	クロアチア	https://geoportal.gov.cz/web/guest/map
+* 	セルビア ボスニア・ヘルツェゴヴィナ マケドニア	https://zbgis.skgeodesy.sk
+* 	コソボ	http://mapy.geoportal.gov.pl/imap/
+* 	アルバニア トルコ ニュージーランド	http://www.geopedia.si
+* 	オーストラリア	http://geoportal.nipp.hr/en/application/view
+* 	カナダ	https://a3.geosrbija.rs/
+* 	カナダ	https://www.katastar.ba/geoportal/preglednik/
+* 	エクアドル	https://ossp.katastar.gov.mk/OSSP/
+* 	ブラジル	http://geoportal.rks-gov.net/en/search?municipalityId=6
+* 	台湾	https://geoportal.asig.gov.al/map/?auto=true
+* 	香港	https://atlas.harita.gov.tr/
+* 	フィリピン	http://www.topomap.co.nz/
+* 	フィリピン	http://maps.ga.gov.au/interactive-maps/#/theme/national-location-information/map/australiantopography
+* 	フィリピン	http://atlas.gc.ca/toporama/en/index.html
+* 	インドネシア	http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html
+* 	イスラエル	http://www.geoportaligm.gob.ec/portal/
+		https://portaldemapas.ibge.gov.br/portal.php#homepage
+		https://maps.nlsc.gov.tw/
+		http://www1.map.gov.hk/gih3/view/index.jsp
+		http://www.namria.gov.ph/download.php
+		http://www.namria.gov.ph/download.php#maps
+		http://www.geoportal.gov.ph/
+		http://tanahair.indonesia.go.id/portal-web/inageoportal/#/
+		https://www.govmap.gov.il/
 
 
 ## 参考文献
