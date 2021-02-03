@@ -22,44 +22,44 @@
 * 	ルクセンブルク	http://map.geoportail.lu/
 * 	オーストリア	http://www.amap.at/
 * 	リヒテンシュタイン	http://geodaten.llv.li/geoportal/public.html
-* 	ドイツ バイエルン州	https://geoportal.bayern.de/bayernatlas/
-* 	ドイツ ノルトラインウエストファーレン州 ドイツ ラインラントプファルツ州	https://www.geoportal.nrw/geoviewer
-* 	ドイツ ニーダーザクセン州 ドイツ ブランデンブルク州 ドイツ ザクセン州	https://maps.rlp.de/
-* 	ドイツ シュレースヴィヒ・ホルシュタイン州	http://navigator.geolife.de/
-* 	ドイツ メクレンブルクフォアポンメルン州 フランス	https://bb-viewer.geobasis-bb.de/
-* 	イタリア	https://geoportal.sachsen.de/cps/karte.html
-* 	スペイン	http://www.umweltdaten.landsh.de/atlas/script/index.php
-* 	アンドラ	https://www.geoportal-mv.de/gaia/gaia.php
-* 	エストニア	https://www.geoportail.gouv.fr/carte
-* 	ラトビア	https://www.igmi.org/en/geoprodotti#b_start=0
-* 	チェコ	http://www.ign.es/iberpix2/visor/
-* 	スロバキア	https://www.ideandorra.ad/geoportal/
-* 	ポーランド	https://geoportaal.maaamet.ee/eng/
-* 	スロベニア	https://kartes.lgia.gov.lv/karte/
-* 	クロアチア	https://geoportal.gov.cz/web/guest/map
-* 	セルビア ボスニア・ヘルツェゴヴィナ マケドニア	https://zbgis.skgeodesy.sk
-* 	コソボ	http://mapy.geoportal.gov.pl/imap/
-* 	アルバニア トルコ ニュージーランド	http://www.geopedia.si
-* 	オーストラリア	http://geoportal.nipp.hr/en/application/view
-* 	カナダ	https://a3.geosrbija.rs/
-* 	カナダ	https://www.katastar.ba/geoportal/preglednik/
-* 	エクアドル	https://ossp.katastar.gov.mk/OSSP/
-* 	ブラジル	http://geoportal.rks-gov.net/en/search?municipalityId=6
-* 	台湾	https://geoportal.asig.gov.al/map/?auto=true
-* 	香港	https://atlas.harita.gov.tr/
-* 	フィリピン	http://www.topomap.co.nz/
-* 	フィリピン	http://maps.ga.gov.au/interactive-maps/#/theme/national-location-information/map/australiantopography
-* 	フィリピン	http://atlas.gc.ca/toporama/en/index.html
-* 	インドネシア	http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html
-* 	イスラエル	http://www.geoportaligm.gob.ec/portal/
-		https://portaldemapas.ibge.gov.br/portal.php#homepage
-		https://maps.nlsc.gov.tw/
-		http://www1.map.gov.hk/gih3/view/index.jsp
-		http://www.namria.gov.ph/download.php
-		http://www.namria.gov.ph/download.php#maps
-		http://www.geoportal.gov.ph/
-		http://tanahair.indonesia.go.id/portal-web/inageoportal/#/
-		https://www.govmap.gov.il/
+* 	ドイツバイエルン州	https://geoportal.bayern.de/bayernatlas/
+* 	ドイツノルトラインウエストファーレン州	https://www.geoportal.nrw/geoviewer
+* 	ドイツラインラントプファルツ州	https://maps.rlp.de/
+* 	ドイツニーダーザクセン州	http://navigator.geolife.de/
+* 	ドイツブランデンブルク州	https://bb-viewer.geobasis-bb.de/
+* 	ドイツザクセン州	https://geoportal.sachsen.de/cps/karte.html
+* 	ドイツシュレースヴィヒ・ホルシュタイン州	http://www.umweltdaten.landsh.de/atlas/script/index.php
+* 	ドイツメクレンブルクフォアポンメルン州	https://www.geoportal-mv.de/gaia/gaia.php
+* 	フランス	https://www.geoportail.gouv.fr/carte
+* 	イタリア	https://www.igmi.org/en/geoprodotti#b_start=0
+* 	スペイン	http://www.ign.es/iberpix2/visor/
+* 	アンドラ	https://www.ideandorra.ad/geoportal/
+* 	エストニア	https://geoportaal.maaamet.ee/eng/
+* 	ラトビア	https://kartes.lgia.gov.lv/karte/
+* 	チェコ	https://geoportal.gov.cz/web/guest/map
+* 	スロバキア	https://zbgis.skgeodesy.sk
+* 	ポーランド	http://mapy.geoportal.gov.pl/imap/
+* 	スロベニア	http://www.geopedia.si
+* 	クロアチア	http://geoportal.nipp.hr/en/application/view
+* 	セルビア	https://a3.geosrbija.rs/
+* 	ボスニア・ヘルツェゴヴィナ	https://www.katastar.ba/geoportal/preglednik/
+* 	マケドニア	https://ossp.katastar.gov.mk/OSSP/
+* 	コソボ	http://geoportal.rks-gov.net/en/search?municipalityId=6
+* 	アルバニア	https://geoportal.asig.gov.al/map/?auto=true
+* 	トルコ	https://atlas.harita.gov.tr/
+* 	ニュージーランド	http://www.topomap.co.nz/
+* 	オーストラリア	http://maps.ga.gov.au/interactivemaps/#/theme/national-locationinformation/map/australiantopography
+* 	カナダ	http://atlas.gc.ca/toporama/en/index.html
+* 	カナダ	http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/index/html/geospatial_product_index_en.html
+* 	エクアドル	http://www.geoportaligm.gob.ec/portal/
+* 	ブラジル	https://portaldemapas.ibge.gov.br/portal.php#homepage
+* 	台湾	https://maps.nlsc.gov.tw/
+* 	⾹港	http://www1.map.gov.hk/gih3/view/index.jsp
+* 	フィリピン	http://www.namria.gov.ph/download.php
+* 	フィリピン	http://www.namria.gov.ph/download.php#maps
+* 	フィリピン	http://www.geoportal.gov.ph/
+* 	インドネシア	http://tanahair.indonesia.go.id/portalweb/inageoportal/#/
+* 	イスラエル	https://www.govmap.gov.il/
 
 
 ## 参考文献
