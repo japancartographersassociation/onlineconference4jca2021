@@ -1,5 +1,5 @@
 # onlineconference4jca2021
-日本地図学会 定期大会 オンライン開催 運用マニュアル2021年版
+日本地図学会 定期大会 オンライン開催 運用マニュアル2021年版(2020年度)
 
 ![JCA conference banner](https://github.com/japancartographersassociation/onlineconference4jca2021/blob/main/assets/images/JCAonlineconference2020banner_w920xh450.png?raw=true)
 
