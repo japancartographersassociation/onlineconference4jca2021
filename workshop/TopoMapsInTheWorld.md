@@ -70,4 +70,4 @@
 https://forms.gle/FeupirKWaEwNFmkb7
 
 
-© Taketo Kobayashi
+© Taketo Kobayashi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
